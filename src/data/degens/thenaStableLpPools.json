@@ -2,7 +2,7 @@
   {
     "name": "thena-btcb-multibtc",
     "address": "0x2475FF2A7C81da27eA2e08e0d3B0Ad01e16225eC",
-    "gauge": "0x10Ad3ae295516E4F14943AfEC0DAAc6cD42CB414",
+    "gauge": "0x66B34c7578B513600a31A3f79C47e10546830efF",
     "decimals": "1e18",
     "chainId": 56,
     "beefyFee": 0.095,
